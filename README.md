@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Elise
 - 👀 I’m interested in becoming a full stack developer 
-- 🌱 I’m currently learning web design by using freecodecamp
-- 💞️ I’m looking to collaborate on web designing
-- 📫 How to reach me eliserejohnson@gmail.com
+- 🌱 I’m currently learning web design by using freecodecamp/codecademy/udemy,etc
+- 💞️ I’m looking to collaborate on web developing
+- 📫 How to reach me elisecomputing@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I never thought I would learn to code!
 
